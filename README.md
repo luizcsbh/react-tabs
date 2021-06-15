@@ -1,15 +1,15 @@
-[![issues](https://img.shields.io/github/issues/luizcsbh/react-tab)](https://github.com/luizcsbh/react-tab/issues)
-![forks](https://img.shields.io/github/forks/luizcsbh/react-tab)
-![stars](https://img.shields.io/github/stars/luizcsbh/react-tab)
-[![lincença](https://img.shields.io/github/license/luizcsbh/react-tab)](https://github.com/luizcsbh/react-tab/blob/master/LICENSE)
-![code-size](https://img.shields.io/github/languages/code-size/luizcsbh/react-tab)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/luizcsbh/react-tab/Node.js%20CI
-)](https://github.com/luizcsbh/react-tab/actions)
-[![commit activity](https://img.shields.io/github/commit-activity/m/luizcsbh/react-tab)](https://github.com/luizcsbh/react-tab/commits)
-[![last commit](https://img.shields.io/github/last-commit/luizcsbh/react-tab)](https://github.com/luizcsbh/react-tab/commits)
-[![environment](https://img.shields.io/github/deployments/luizcsbh/react-tab/management-my-finances)](https://github.com/luizcsbh/react-tab/deployments)
-[![CodeFactor](https://www.codefactor.io/repository/github/luizcsbh/react-tab/badge)](https://www.codefactor.io/repository/github/luizcsbh/react-tab)
-[![version](https://img.shields.io/github/package-json/v/luizcsbh/react-tab)](https://github.com/luizcsbh/react-tab/blob/master/package.json)
+[![issues](https://img.shields.io/github/issues/luizcsbh/react-tabs)](https://github.com/luizcsbh/react-tabs/issues)
+![forks](https://img.shields.io/github/forks/luizcsbh/react-tabs)
+![stars](https://img.shields.io/github/stars/luizcsbh/react-tabs)
+[![lincença](https://img.shields.io/github/license/luizcsbh/react-tabs)](https://github.com/luizcsbh/react-tabs/blob/master/LICENSE)
+![code-size](https://img.shields.io/github/languages/code-size/luizcsbh/react-tabs)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/luizcsbh/react-tabs/Node.js%20CI
+)](https://github.com/luizcsbh/react-tabs/actions)
+[![commit activity](https://img.shields.io/github/commit-activity/m/luizcsbh/react-tabs)](https://github.com/luizcsbh/react-tabs/commits)
+[![last commit](https://img.shields.io/github/last-commit/luizcsbh/react-tabs)](https://github.com/luizcsbh/react-tabs/commits)
+[![environment](https://img.shields.io/github/deployments/luizcsbh/react-tabs/management-my-finances)](https://github.com/luizcsbh/react-tabs/deployments)
+[![CodeFactor](https://www.codefactor.io/repository/github/luizcsbh/react-tabs/badge)](https://www.codefactor.io/repository/github/luizcsbh/react-tabs)
+[![version](https://img.shields.io/github/package-json/v/luizcsbh/react-tabs)](https://github.com/luizcsbh/react-tabs/blob/master/package.json)
 [![twwiter follow](https://img.shields.io/twitter/follow/luizcs?style=social)](https://twitter.com/luizcs)
 
 
