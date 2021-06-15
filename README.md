@@ -1,7 +1,7 @@
 [![issues](https://img.shields.io/github/issues/luizcsbh/react-tabs)](https://github.com/luizcsbh/react-tabs/issues)
 ![forks](https://img.shields.io/github/forks/luizcsbh/react-tabs)
 ![stars](https://img.shields.io/github/stars/luizcsbh/react-tabs)
-[![lincença](https://img.shields.io/github/license/luizcsbh/react-tabs)](https://github.com/luizcsbh/react-tabs/blob/master/LICENSE)
+[![lincença](https://img.shields.io/github/license/luizcsbh/react-tabs)](https://github.com/luizcsbh/react-tabs/blob/main/LICENSE)
 ![code-size](https://img.shields.io/github/languages/code-size/luizcsbh/react-tabs)
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/luizcsbh/react-tabs/Node.js%20CI
 )](https://github.com/luizcsbh/react-tabs/actions)
