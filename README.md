@@ -7,7 +7,8 @@
 )](https://github.com/luizcsbh/react-tabs/actions)
 [![commit activity](https://img.shields.io/github/commit-activity/m/luizcsbh/react-tabs)](https://github.com/luizcsbh/react-tabs/commits)
 [![last commit](https://img.shields.io/github/last-commit/luizcsbh/react-tabs)](https://github.com/luizcsbh/react-tabs/commits)
-[![environment](https://img.shields.io/github/deployments/luizcsbh/react-tabs/management-my-finances)](https://github.com/luizcsbh/react-tabs/deployments)
+[![environment](https://img.shields.io/github/deployments/luizcsbh/react-tabs
+)](https://github.com/luizcsbh/react-tabs/deployments)
 [![CodeFactor](https://www.codefactor.io/repository/github/luizcsbh/react-tabs/badge)](https://www.codefactor.io/repository/github/luizcsbh/react-tabs)
 [![version](https://img.shields.io/github/package-json/v/luizcsbh/react-tabs)](https://github.com/luizcsbh/react-tabs/blob/master/package.json)
 [![twwiter follow](https://img.shields.io/twitter/follow/luizcs?style=social)](https://twitter.com/luizcs)
