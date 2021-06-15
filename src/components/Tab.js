@@ -1,4 +1,5 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
+import React from 'react';
 import './index.css'
 
 export const  Tab = ({children, active = 0 }) => {
@@ -6,7 +7,7 @@ export const  Tab = ({children, active = 0 }) => {
     const [tabsData, setTabsData] = useState([]);
 
     useEffect(() => {
-        const data = [];
+        let data = [];
 
         React.Children.forEach(children, element => {
             if(!React.isValidElement(element)) return;
@@ -24,9 +25,9 @@ export const  Tab = ({children, active = 0 }) => {
                 {
                     tabsData.map(({tab}, idx) => (
                         <li className="nav-item">
-                            <a className={`nav-link ${idx === activeTab ? "active" : ""}`} href="#" onClick={()=>setActiveTab(idx)}>
+                            <button className={`nav-link ${idx === activeTab ? "active" : ""}`} href="#" onClick={() => setActiveTab(idx)}>
                                 {tab}
-                            </a>
+                            </button>
                         </li>
                     ))
                 }

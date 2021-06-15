@@ -1,4 +1,5 @@
 import { Tab } from './components/Tab';
+import React from 'react';
 import './App.css';
 
 const tabContent = [
@@ -21,8 +22,7 @@ function App() {
     <div className="App">
       <div className="row">
         <div className="col text-center">
-          <h2>Tab Component</h2>
-         
+          <h2>Tab Component</h2>         
           <div className="row text-center">
             <Tab active={0}>
               {tabContent.map((tab, idx) => (
