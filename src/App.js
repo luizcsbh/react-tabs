@@ -1,23 +1,39 @@
-import logo from './logo.svg';
+import { Tab } from './components/Tab';
 import './App.css';
+
+const tabContent = [
+  {
+    title: "Tab 1",
+    content: "Tab 1 ativa"
+  },
+  {
+    title: "Tab 2",
+    content: "Tab 2 ativa"
+  },
+  {
+    title: "Tab 3",
+    content: "Tab 3 ativa"
+  }
+];
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="row">
+        <div className="col text-center">
+          <h2>Tab Component</h2>
+         
+          <div className="row text-center">
+            <Tab active={0}>
+              {tabContent.map((tab, idx) => (
+                <Tab.TabPane key={`Tab-${idx}`} tab={tab.title}>
+                  {tab.content}
+                </Tab.TabPane>
+              ))}
+            </Tab>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

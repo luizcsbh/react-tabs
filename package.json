@@ -1,6 +1,19 @@
 {
   "name": "react-tabs",
   "version": "0.1.0",
+  "description": "Component react-tab",
+  "author": {
+    "name": "Luiz Santos",
+    "email": "luizcsdev@gmail.com",
+    "url": "https://about.me/luizcsdev"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/luizcsbh/react-tabs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luizcsbh/react-tabs/issues"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
