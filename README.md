@@ -17,7 +17,7 @@ Project  frontend of this web application.
 ## Prerequisites for the project
 
 - npm installed.
-
+ 
 ## Project
 
 To install the project dependencies, type the command at the root of the project:
