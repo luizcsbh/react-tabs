@@ -9,7 +9,7 @@
 [![version](https://img.shields.io/github/package-json/v/luizcsbh/react-tabs)](https://github.com/luizcsbh/react-tabs/blob/master/package.json)
 [![twwiter follow](https://img.shields.io/twitter/follow/luizcs?style=social)](https://twitter.com/luizcs)
 
-# React Tab :computer: 
+# React Tabs :computer: 
 
 Project  frontend of this web application.
 
