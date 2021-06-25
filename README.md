@@ -8,11 +8,13 @@
 [![last commit](https://img.shields.io/github/last-commit/luizcsbh/react-tabs)](https://github.com/luizcsbh/react-tabs/commits)
 [![CodeFactor](https://www.codefactor.io/repository/github/luizcsbh/react-tabs/badge)](https://www.codefactor.io/repository/github/luizcsbh/react-tabs)
 [![version](https://img.shields.io/github/package-json/v/luizcsbh/react-tabs)](https://github.com/luizcsbh/react-tabs/blob/master/package.json)
+![language-top](https://img.shields.io/github/languages/top/luizcsbh/react-tabs)
+![language-count](https://img.shields.io/github/languages/count/luizcsbh/react-tabs)
 [![twwiter follow](https://img.shields.io/twitter/follow/luizcs?style=social)](https://twitter.com/luizcs)
 
 # React Tabs :computer: 
 
-Project  frontend of this web application.
+Project frontend of this react component Tabs.
 
 
 ## Prerequisites for the project
