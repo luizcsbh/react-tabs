@@ -37,7 +37,7 @@ To access the server type in the browser: http://localhost:3000
 
 ## Web application
 
-Component [react-tabs](https://react-tab.herokuapp.com/).
+Component [react-tabs](https://react-component-tabs.netlify.app/).
 
 ## Author
 
